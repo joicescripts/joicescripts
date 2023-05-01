@@ -5,9 +5,6 @@
 - E estou aprendendo sobre JavaScript, HTML e CSS e buscando desenvolver soluções criativas e eficientes para os desafios da área
 
 <div>
-<a href="https://github.com/joicescripts/github-readme-stats">
-  <img height="150cm" align="center" src="https://github-readme-stats.vercel.app/api?username=joicescripts&show_icons=false&theme=dark" />
-</a>
 <a href="https://github.com/joicescripts/convoychat">
   <img height="150cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicescripts&layout=compact&theme=dark" />
 </a>
