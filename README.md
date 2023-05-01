@@ -9,7 +9,7 @@
   <img height="190cm" align="center" src="https://github-readme-stats.vercel.app/api?username=joicescripts&show_icons=false&theme=dark" />
 </a>
 <a href="https://github.com/joicescripts/convoychat">
-  <img height="190cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicescripts&layout=compact&theme=dark" />
+  <img height="190cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicescripts&layout=compact&theme=dark" />
 </a>
 </div>
 
